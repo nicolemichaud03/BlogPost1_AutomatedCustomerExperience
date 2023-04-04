@@ -1,3 +1,53 @@
-theme: midnight
+<!DOCTYPE html>
+<html>
+    <head>
+       Data Science Blog Post - Phase 1
+
+    </head>
+
+    <body>
+      
+      <h2>
+        “You Might Also Like” - The Automated Customer Experience
+      </h2>
+      
+      <p>
+        In 2023 it would be very unlikely for any customer in the developed world to not have had a customer service experience driven by data. Technology, and the use of user data, is used in many different instances to improve the customer experience by making it more personal, efficient, or enjoyable. Some of the ways in which this is often seen is in the form of using AI Automation to streamline customer service, such as through a chat bot, making personalized recommendations to online shopping customers based on previous purchases or interactions with the website, or even the use of Augmented or Virtual Reality devices to allow a customer to test out a product before they buy it. These ways of using customer data can benefit not only just the customers, but business owners as well, and they have become so common that they aren’t just the norm– they’re expected.
+      </p>
+      
+      <p>
+       Imagine you’re browsing your favorite movie streaming service, looking for what to watch next. Without personalized suggestions based on your previous watching habits or even just based on what other people are enjoying, you could be stuck scrolling for hours or just give up if you can’t find something that appeals to you. Or imagine that every time you wanted to check your bank account balance you had to drive to your bank or an ATM, instead of just opening an online banking app. These are some examples of how automation can be used to make the customer experience more convenient. 
+      </p>
+      <h6> 
+What are the “Pros” of using automation?
+      </h6>
+      <p>
+        Not only can the use of data lead to convenience, but it can also make the customer experience much more efficient. Customers use online shopping websites from all over the world, and in all different time zones. Most businesses aren’t open 24/7 anyway so odds are there would be a time that a customer needs assistance but a real person isn’t available right away. But now, by using the chatbot feature many websites now have, the customer may be able to get any questions they have answered right away. For example, “47 percent of consumers say they go online to search for product information at least three to four times per week”[(SAS)]. Even if a real customer service employee is available, the chatbot can help to free them up for more complicated customer problems so that everyone can be helped faster. For businesses, automation  can increase efficiency by “speeding up decision-making and execution, as well as minimizing risk”[(SAS)].
+      </p>
+      <p>
+        Personalizing user experience through the use of data can also make the experience more enjoyable– which in turn also benefits business owners. In a recent study by Epsilon, 90% of consumers find personalization appealing. Plus, a further 80% claim they are more likely to do business with a company when offered personalized experiences”[(iterator hq)]. So customers are able to find things they like with ease and if they are more likely to find things they like, then they are more likely to buy things from the company. Whereas if a site didn’t have any personalization features, the customer may find it too difficult to navigate and may be less likely to return to the site.
+      </p>
+      <h6>
+        What are the “Cons” of using automation?
+      </h6>
+      <p>
+        While customers have grown to expect the convenience, efficiency and enjoyability that is provided by automation, there are still downsides. Many people still find it hard to have complete trust in companies that have the ability to acces their data. Currently, rumors are flying that apps like TikTok could use the data collected by their algorithms for purposes other than just the experience of app users. For people to be comfortable with the ongoing increase of automation in all different aspects of our lives, and for them to remain loyal to companies that use automation, they have to feel that they can have trust in what their data will be used for. Furthermore, it is extremely important that the data collected is secure so that outside forces aren’t able to get ahold of it and use it to do harm to users or the company. A lot of times, the answer to making automation and data secure is through the use of automation itself– such as second factor authentication for logging into websites that hold personal information.
+      </p>
+      <p>
+        Another worry that some people may have is that AI and technology will replace the jobs of humans. In reality, automation can improve these jobs. While technology is fast and can hold large amounts of information that humans may not be able to, it doesn’t have the human aspect of empathy. Empathy is an irreplaceable aspect of the customer experience, and that’s why human workers aren’t going anywhere. When we combine technology and automation with real human communication, we can get the best of both worlds: “brands must balance the use of smart machines for performance with the empathy that the human element brings to the equation, and they must learn how to balance each within their organizations”[(SAS)].
+      </p>
+      <p>
+        Ultimately, the increased prevalence of automation within the customer experience has both the ability to do harm, but also to do a lot of good. Companies need to place an emphasis on gaining the trust and loyalty of their customers by having transparency about data usage and by making sure appropriate measures are in place to keep data secure. In implementing automation in addition to the human workforce, both customers and the companies themselves can enjoy numerous benefits.
+      </p>
+ 
+  
+  </body>
+  
+  
+  
+  
+  
+
+</html>
 
 
