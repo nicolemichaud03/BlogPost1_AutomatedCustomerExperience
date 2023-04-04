@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
        Data Science Blog Post - Phase 1
 
-    </head>
+</head>
 
-    <body>
-      
-      <h2>
-        “You Might Also Like” - The Automated Customer Experience
-      </h2>
-      
-      <p>
-        In 2023 it would be very unlikely for any customer in the developed world to not have had a customer service experience driven by data. Technology, and the use of user data, is used in many different instances to improve the customer experience by making it more personal, efficient, or enjoyable. Some of the ways in which this is often seen is in the form of using AI Automation to streamline customer service, such as through a chat bot, making personalized recommendations to online shopping customers based on previous purchases or interactions with the website, or even the use of Augmented or Virtual Reality devices to allow a customer to test out a product before they buy it. These ways of using customer data can benefit not only just the customers, but business owners as well, and they have become so common that they aren’t just the norm– they’re expected.
-      </p>
-      
-      <p>
-       Imagine you’re browsing your favorite movie streaming service, looking for what to watch next. Without personalized suggestions based on your previous watching habits or even just based on what other people are enjoying, you could be stuck scrolling for hours or just give up if you can’t find something that appeals to you. Or imagine that every time you wanted to check your bank account balance you had to drive to your bank or an ATM, instead of just opening an online banking app. These are some examples of how automation can be used to make the customer experience more convenient. 
-      </p>
-      <h6> 
+<body>
+<h2>
+            “You Might Also Like” - The Automated Customer Experience
+</h2>
+<p>
+            In 2023 it would be very unlikely for any customer in the developed world to not have had a customer service experience driven by data. Technology, and the use of user data, is used in many different instances to improve the customer experience by making it more personal, efficient, or enjoyable. Some of the ways in which this is often seen is in the form of using AI Automation to streamline customer service, such as through a chat bot, making personalized recommendations to online shopping customers based on previous purchases or interactions with the website, or even the use of Augmented or Virtual Reality devices to allow a customer to test out a product before they buy it. These ways of using customer data can benefit not only just the customers, but business owners as well, and they have become so common that they aren’t just the norm– they’re expected.
+</p> 
+<p>
+            Imagine you’re browsing your favorite movie streaming service, looking for what to watch next. Without personalized suggestions based on your previous watching habits or even just based on what other people are enjoying, you could be stuck scrolling for hours or just give up if you can’t find something that appeals to you. Or imagine that every time you wanted to check your bank account balance you had to drive to your bank or an ATM, instead of just opening an online banking app. These are some examples of how automation can be used to make the customer experience more convenient. 
+</p>
+<h6> 
 What are the “Pros” of using automation?
       </h6>
       <p>
