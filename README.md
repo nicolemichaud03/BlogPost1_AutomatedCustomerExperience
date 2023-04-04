@@ -1,1 +1,2 @@
-Blog Post 1
+theme: Midnight
+
