@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h2>
+<h2 id="mytitle">
             “You Might Also Like” - The Automated Customer Experience
 </h2>
 <p>
@@ -15,7 +15,7 @@
 <p>
             Imagine you’re browsing your favorite movie streaming service, looking for what to watch next. Without personalized suggestions based on your previous watching habits or even just based on what other people are enjoying, you could be stuck scrolling for hours or just give up if you can’t find something that appeals to you. Or imagine that every time you wanted to check your bank account balance you had to drive to your bank or an ATM, instead of just opening an online banking app. These are some examples of how automation can be used to make the customer experience more convenient. 
 </p>
-<h4> 
+<h4 id="subtitle1"> 
 What are the “Pros” of using automation?
       </h4>
       <p>
@@ -24,7 +24,7 @@ What are the “Pros” of using automation?
       <p>
         Personalizing user experience through the use of data can also make the experience more enjoyable– which in turn also benefits business owners. <a href="https://www.iteratorshq.com/blog/an-introduction-recommender-systems-9-easy-examples/">In a recent study by Epsilon, 90% of consumers find personalization appealing. Plus, a further 80% claim they are more likely to do business with a company when offered personalized experiences”</a>. So customers are able to find things they like with ease and if they are more likely to find things they like, then they are more likely to buy things from the company. Whereas if a site didn’t have any personalization features, the customer may find it too difficult to navigate and may be less likely to return to the site.
       </p>
-     <h4>
+     <h4 id="subtitle2">
         What are the “Cons” of using automation?
             </h4>
       <p>
