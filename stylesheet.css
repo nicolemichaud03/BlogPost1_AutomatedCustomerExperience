@@ -1,10 +1,22 @@
-#p1 {
-  color: tan;
+
+#mytitle {
+text-align: center;
+border-style: dotted;
+border-width: 7px;
+border-color: white;
 }
  body {
   border-style: solid;
   border-width: 5px;
+  padding: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: 	#e6e6fa ;
+  
 }
-#subtitle1 {
+#subtitle1 , #subtitle2{
   text-align: center;
+}
+p {
+  text-indent: 50px;
+  box-shadow: 5px 5px white;
 }
