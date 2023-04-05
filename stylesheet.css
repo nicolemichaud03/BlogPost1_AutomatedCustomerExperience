@@ -1,7 +1,10 @@
-.p1 {
+#p1 {
   color: tan;
 }
  body {
   border-style: solid;
   border-width: 5px;
+}
+#subtitle1 {
+  text-align: center;
 }
