@@ -33,6 +33,9 @@ What are the “Pros” of using automation?
       <p id="p6">
         Another worry that some people may have is that AI and technology will replace the jobs of humans. In reality, automation can improve these jobs. While technology is fast and can hold large amounts of information that humans may not be able to, it doesn’t have the human aspect of empathy. Empathy is an irreplaceable aspect of the customer experience, and that’s why human workers aren’t going anywhere. When we combine technology and automation with real human communication, we can get the best of both worlds:<a href="https://www.sas.com/en/whitepapers/futurum-experience-2030-110966.html?utm_source=google&utm_medium=cpc&utm_campaign=ci-us&utm_content=GMS-118101&gclid=Cj0KCQjw8qmhBhClARIsANAtboeDEVIoykZDcP7nOkEgA2apuCTn6H-ng5nXiVySXl9Cp4k3fwjDfiEaAnTQEALw_wcB">  “brands must balance the use of smart machines for performance with the empathy that the human element brings to the equation, and they must learn how to balance each within their organizations”</a>.
       </p>
+      <p>
+      Here is an example of a pop-up I got while browsing a webiste from a company based in Denmark. <a href="https://bestseller.com/our-company> <img src="blogexamplepic.png"> </a>
+      </p>
       <p id="p7">
         Ultimately, the increased prevalence of automation within the customer experience has both the ability to do harm, but also to do a lot of good. Companies need to place an emphasis on gaining the trust and loyalty of their customers by having transparency about data usage and by making sure appropriate measures are in place to keep data secure. In implementing automation in addition to the human workforce, both customers and the companies themselves can enjoy numerous benefits.
       </p>
