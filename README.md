@@ -2,7 +2,7 @@
 <html>
 <head>
        Data Science Blog Post - Phase 1
-
+<link href="StyleSheet.css" rel="stylesheet">
 </head>
 
 <body>
